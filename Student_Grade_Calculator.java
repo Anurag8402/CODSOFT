@@ -1,7 +1,7 @@
 package task2;
 
 import java.util.Scanner;
-
+// comment
 
 public class Student_Grade_Calculator {
 	
